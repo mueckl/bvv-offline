@@ -1,5 +1,5 @@
 # bvv-offline
-Show BVV-Opendata WMTS in OsmAnd
+BVV-Opendata WMTS in OsmAnd anzeigen
 
 Zeigt die Möglichkeit die OpenData-WMTS-Daten der Bayerischen Veremessungsverwaltung in OsmAnd anzuzeigen und offline zu nutzen.
 

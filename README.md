@@ -15,3 +15,8 @@ Zeigt die Möglichkeit die OpenData-WMTS-Daten der Bayerischen Veremessungsverwa
      * weiter nach unten scrollen, um Zoomstufen festzulegen
      * Anzahl der Bildkacheln und deren geschätzte Gesamtgröße wird angezeigt
      * Download mit "Herunterladen" beginnen
+
+
+## Luftbild mit Parzellarkarte
+
+Wählt man als Kartenquelle "BVV DOP20" und  als Overlay-Karte "BVV Label" hat man sogar eine Luftbildkarte

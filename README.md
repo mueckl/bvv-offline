@@ -1,13 +1,15 @@
 # bvv-offline
 BVV-Opendata WMTS in OsmAnd anzeigen
 
-Zeigt die Möglichkeit die OpenData-WMTS-Daten der Bayerischen Veremessungsverwaltung in OsmAnd anzuzeigen und offline zu nutzen.
+Diese Beschreibung zeigt die Möglichkeit die OpenData-WMTS-Daten der Bayerischen Vermessungsverwaltung (BVV) in der OsmAnd-App anzuzeigen und offline zu nutzen.
+
+Dies hilft evtl. darüber hinweg, dass der BayernAtlas nicht mehr offline nutzbar ist.
 
   1. OsmAnd installieren
      https://osmand.net/
      
   1. OsmAnd Einstellungen [herunterladen](bvv_maps.osf) und mit OsmAnd importieren.  
-     Die importieren Kartenquellen sind dann unter 🌍 -> Kartenquellen verfügbar
+     Die importieren BVV-Kartenquellen sind dann unter 🌍 -> Kartenquellen verfügbar
 
   1. Kacheln für Offline-Nutzung herunterladen:
      * Kartelayer wählen

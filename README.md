@@ -22,3 +22,8 @@ Zeigt die Möglichkeit die OpenData-WMTS-Daten der Bayerischen Veremessungsverwa
 
 Wählt man als Kartenquelle "BVV DOP20" und  als Overlay-Karte "BVV Label" hat man sogar eine Luftbildkarte
 
+<img src="images/osmand_lbk_setting.png" width="500">
+
+![screenshot Luftbildkarte](images/osmand_lbk.png "Screenshot Luftbildkarte")
+
+

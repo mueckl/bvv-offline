@@ -9,7 +9,8 @@ Zeigt die Möglichkeit die OpenData-WMTS-Daten der Bayerischen Veremessungsverwa
   1. OsmAnd Einstellungen [herunterladen](bvv_maps.osf) und mit OsmAnd importieren.  
      Die importieren Kartenquellen sind dann unter 🌍 -> Kartenquellen verfügbar
 
-  1. Kacheln für Offline-NUtzung herunterladen:
+  1. Kacheln für Offline-Nutzung herunterladen:
+     * Kartelayer wählen
      * <<Lange auf die Karte drücken>> -> Aktionen -> "Karte herunterladen"
      * Zoomen, um Ausschnitt zu definieren
      * weiter nach unten scrollen, um Zoomstufen festzulegen
@@ -20,3 +21,4 @@ Zeigt die Möglichkeit die OpenData-WMTS-Daten der Bayerischen Veremessungsverwa
 ## Luftbild mit Parzellarkarte
 
 Wählt man als Kartenquelle "BVV DOP20" und  als Overlay-Karte "BVV Label" hat man sogar eine Luftbildkarte
+

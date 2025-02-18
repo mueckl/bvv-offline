@@ -9,7 +9,8 @@ Dies hilft evtl. darüber hinweg, dass der BayernAtlas nicht mehr offline nutzba
      https://osmand.net/
      
   1. Die hier vorbereiteten OsmAnd-Einstellungen [herunterladen](bvv_maps.osf) und mit OsmAnd importieren.  
-     Die importierten BVV-Kartenquellen sind dann unter 🌍 -> Kartenquellen verfügbar
+     Die importierten BVV-Kartenquellen sind dann unter 🌍 -> Kartenquellen verfügbar.  
+     Bei der ersten Nutzung von OsmAnd müssen die "Onlinekarten aktiviert" werden 
 
   1. Kacheln für Offline-Nutzung herunterladen:
      * Kartenlayer wählen

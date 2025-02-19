@@ -18,7 +18,7 @@ Dies hilft evtl. darüber hinweg, dass der BayernAtlas nicht mehr offline nutzba
      * <<Lange auf die Karte drücken>> -> Aktionen -> "Karte herunterladen"
      * Zoomen, um Ausschnitt zu definieren
      * weiter nach unten scrollen, um Zoomstufen festzulegen
-     * Anzahl der Bildkacheln und deren geschätzte Gesamtgröße wird angezeigt
+     * Anzahl der Bildkacheln und deren geschätzte Gesamtgröße wird angezeigt  
        Hinweis: die geschätze Datenmenge divergiert stark von der angezeigten Downloadgröße in der App
      * Download mit "Herunterladen" beginnen
 
